@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
